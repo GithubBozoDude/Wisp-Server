@@ -1,0 +1,7 @@
+{
+  "name": "wisp-server",
+  "version": "1.0.0",
+  "dependencies": {
+    "@mercuryworkshop/wisp-js": "latest"
+  }
+}
